@@ -11,8 +11,7 @@ class CustomBackgrounds {
 	    "artx_fellw": "https://i.pinimg.com/736x/08/77/3e/08773e2ba1e34956e2d3c2e1a1516ac5.jpg",
 	    "огурец": "https://i.pinimg.com/736x/db/58/c3/db58c3bd59652e9b0e9fa7ca9206f8c4.jpg",
 	    "Z_FURRY_V": "https://avatars.mds.yandex.net/i?id=39daee1d62daa8044d04b16509c5fb356e0571a5-4143030-images-thumbs&n=13",
-	    "Ivaigor_Zone": "https://i.pinimg.com/originals/0c/7c/35/0c7c35e8cfdac8b063cf13cae6fdf2da.jpg"
-		
+	    "Ivaigor_Zone": "https://i.pinimg.com/originals/0c/7c/35/0c7c35e8cfdac8b063cf13cae6fdf2da.jpg"	
         };
 
         // Создаем массив ключей для регулярного выражения
